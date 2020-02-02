@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JobList>
+  <Job OutputType="WebApplication">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>9f23cdef-0ff5-4130-9509-349d1cf6b842</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>9f23cdef-0ff5-4130-9509-349d1cf6b842</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\WebApp_Web Server</OutputPath>
+    <BuildName>WebApp</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:04</LastTotalTime>
+    <StartTime>2020-02-02T18:49:47.7011631Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy>::Web Server::Interactive::WebApp.gcomp</HintEnvoy>
+  </Job>
+  <Job OutputType="WebApplication">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>c2c8e39c-e8ce-4e81-bf9f-5a08436a90c5</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>c2c8e39c-e8ce-4e81-bf9f-5a08436a90c5</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\WebApp_Web Server</OutputPath>
+    <BuildName>WebApp</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:01</LastTotalTime>
+    <StartTime>2020-02-02T19:09:20.0241183Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy>::Web Server::Interactive::WebApp.gcomp</HintEnvoy>
+  </Job>
+  <Job OutputType="Distribution:NiPackageInstaller">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackageInstaller</ComponentSubtypeIdentifier>
+      <BuildId>2f96cc1d-7609-44a1-887d-fd23faf85a91</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackageInstaller</ComponentSubtypeIdentifier>
+      <BuildId>2f96cc1d-7609-44a1-887d-fd23faf85a91</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\WebApp</OutputPath>
+    <BuildName>WebApp</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:01:08</LastTotalTime>
+    <StartTime>2020-02-02T19:13:23.6831555Z</StartTime>
+    <HasChild>True</HasChild>
+    <IsStale>False</IsStale>
+    <QualifiedName>::NullTarget::WebApp.lvdist</QualifiedName>
+    <HintEnvoy>::NullTarget::WebApp.lvdist</HintEnvoy>
+  </Job>
+  <Job OutputType="WebApplication">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>ba345245-a430-4350-b9e8-59cba28043fa</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackageInstaller</ComponentSubtypeIdentifier>
+      <BuildId>2f96cc1d-7609-44a1-887d-fd23faf85a91</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\WebApp_Web Server</OutputPath>
+    <BuildName>WebApp</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:01</LastTotalTime>
+    <StartTime>2020-02-02T19:13:23.8049861Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>False</IsStale>
+    <QualifiedName>::Web Server::Interactive::WebApp.gcomp</QualifiedName>
+    <HintEnvoy>::Web Server::Interactive::WebApp.gcomp</HintEnvoy>
+  </Job>
+  <Job OutputType="Distribution:NiPackagePartial">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackagePartial</ComponentSubtypeIdentifier>
+      <BuildId>552be07a-f1f8-4760-8064-7cd690ab89e0</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackagePartial</ComponentSubtypeIdentifier>
+      <BuildId>552be07a-f1f8-4760-8064-7cd690ab89e0</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\WebApp\nationalinstrumentshungarykft.-webproject_1.0.0.1_windows_x64.nipkg</OutputPath>
+    <BuildName>WebApp</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:04</LastTotalTime>
+    <StartTime>2020-02-02T19:22:11.7469845Z</StartTime>
+    <HasChild>True</HasChild>
+    <IsStale>False</IsStale>
+    <QualifiedName>::NullTarget::WebApp.lvdist</QualifiedName>
+    <HintEnvoy>::NullTarget::WebApp.lvdist</HintEnvoy>
+  </Job>
+  <Job OutputType="WebApplication">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>11d4a229-89a5-4118-b026-e62524397b3b</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackagePartial</ComponentSubtypeIdentifier>
+      <BuildId>552be07a-f1f8-4760-8064-7cd690ab89e0</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\WebApp_Web Server</OutputPath>
+    <BuildName>WebApp</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:02</LastTotalTime>
+    <StartTime>2020-02-02T19:22:11.9565595Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>False</IsStale>
+    <QualifiedName>::Web Server::Interactive::WebApp.gcomp</QualifiedName>
+    <HintEnvoy>::Web Server::Interactive::WebApp.gcomp</HintEnvoy>
+  </Job>
+  <Job OutputType="WebApplication">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>4846cec3-8dcc-4727-b3dc-18331541cef5</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>4846cec3-8dcc-4727-b3dc-18331541cef5</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\WebApp_Web Server</OutputPath>
+    <BuildName>WebApp</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:01</LastTotalTime>
+    <StartTime>2020-02-02T19:30:32.8505662Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy>::Web Server::Interactive::WebApp.gcomp</HintEnvoy>
+  </Job>
+  <Job OutputType="WebApplication">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>d704e754-5488-4536-9d24-6a1d32d349b0</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>d704e754-5488-4536-9d24-6a1d32d349b0</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\WebApp_Web Server</OutputPath>
+    <BuildName>WebApp</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:01</LastTotalTime>
+    <StartTime>2020-02-02T19:44:05.9391321Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy>::Web Server::Interactive::WebApp.gcomp</HintEnvoy>
+  </Job>
+  <Job OutputType="Distribution:NiPackagePartial">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackagePartial</ComponentSubtypeIdentifier>
+      <BuildId>64fc6f59-c796-420e-8b57-724d0d35e8c4</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackagePartial</ComponentSubtypeIdentifier>
+      <BuildId>64fc6f59-c796-420e-8b57-724d0d35e8c4</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\WebApp\nationalinstrumentshungarykft.-webproject_1.0.0.2_windows_x64.nipkg</OutputPath>
+    <BuildName>WebApp</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:03</LastTotalTime>
+    <StartTime>2020-02-02T19:44:15.7892833Z</StartTime>
+    <HasChild>True</HasChild>
+    <IsStale>False</IsStale>
+    <QualifiedName>::NullTarget::WebApp.lvdist</QualifiedName>
+    <HintEnvoy>::NullTarget::WebApp.lvdist</HintEnvoy>
+  </Job>
+  <Job OutputType="WebApplication">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>7dcc47c4-e3c4-4351-88be-cef6353ab2d8</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackagePartial</ComponentSubtypeIdentifier>
+      <BuildId>64fc6f59-c796-420e-8b57-724d0d35e8c4</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\WebApp_Web Server</OutputPath>
+    <BuildName>WebApp</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:01</LastTotalTime>
+    <StartTime>2020-02-02T19:44:15.9076299Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>False</IsStale>
+    <QualifiedName>::Web Server::Interactive::WebApp.gcomp</QualifiedName>
+    <HintEnvoy>::Web Server::Interactive::WebApp.gcomp</HintEnvoy>
+  </Job>
+  <Job OutputType="WebApplication">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>0b0d6c4e-8ada-4f00-8317-b595da562286</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>0b0d6c4e-8ada-4f00-8317-b595da562286</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\WebApp_Web Server</OutputPath>
+    <BuildName>WebApp</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:01</LastTotalTime>
+    <StartTime>2020-02-02T19:50:02.6459339Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy>::Web Server::Interactive::WebApp.gcomp</HintEnvoy>
+  </Job>
+  <Job OutputType="Distribution:NiPackagePartial">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackagePartial</ComponentSubtypeIdentifier>
+      <BuildId>5c6f8f69-b0ab-4b10-b99b-9a860befd467</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackagePartial</ComponentSubtypeIdentifier>
+      <BuildId>5c6f8f69-b0ab-4b10-b99b-9a860befd467</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\WebApp\nationalinstrumentshungarykft.-webproject_1.0.0.3_windows_x64.nipkg</OutputPath>
+    <BuildName>WebApp</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:03</LastTotalTime>
+    <StartTime>2020-02-02T19:50:11.1565598Z</StartTime>
+    <HasChild>True</HasChild>
+    <IsStale>False</IsStale>
+    <QualifiedName>::NullTarget::WebApp.lvdist</QualifiedName>
+    <HintEnvoy>::NullTarget::WebApp.lvdist</HintEnvoy>
+  </Job>
+  <Job OutputType="WebApplication">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>0a99dc3c-d229-4265-b07b-5660f713b22c</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>Distribution:NiPackagePartial</ComponentSubtypeIdentifier>
+      <BuildId>5c6f8f69-b0ab-4b10-b99b-9a860befd467</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\WebApp_Web Server</OutputPath>
+    <BuildName>WebApp</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:01</LastTotalTime>
+    <StartTime>2020-02-02T19:50:11.2668537Z</StartTime>
+    <HasChild>False</HasChild>
+    <IsStale>False</IsStale>
+    <QualifiedName>::Web Server::Interactive::WebApp.gcomp</QualifiedName>
+    <HintEnvoy>::Web Server::Interactive::WebApp.gcomp</HintEnvoy>
+  </Job>
+</JobList>

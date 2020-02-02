@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceFile Checksum="89B79B56B9121D94A15A2F6BA0BBE5C62097799636851778293D5B9200C72520E3351C9F4339AA0D021483A52A554FB4B4C3B34F4BD1B331A1DA713A0D05E263" Timestamp="1D5DA082EA09356" xmlns="http://www.ni.com/PlatformFramework">
+	<SourceModelFeatureSet>
+		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="7.1.0.49152" Version="7.1.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="7.1.0.49153" Version="7.1.0.49153" />
+		<ApplicationVersionInfo Build="7.1.0.50148" Name="LabVIEW NXG" Version="4.0.0" />
+	</SourceModelFeatureSet>
+	<DistributionDefinition Company="National Instruments Hungary Kft." Product="WebApp" ShortDescription="National Instruments Hungary Kft. Web Project" TargetedProduct="LabVIEW" Version="1.0.0.4" xmlns="http://www.ni.com/GComponent.xsd">
+		<DistributionOutput CachedDisplayName="Package" Id="ccd25fa42b934f2cb4f1735796b3785a" OutputTypeIdentifier="DistributionOutputType:NiPackage" p3:CustomNipmPackageName="nationalinstrumentshungarykft.-webproject" p3:DistributionCategory="Application" p3:MaintainerEmail="patrik.karandusovsky@ni.com" p3:MaintainerName="National Instruments Hungary Kft." p3:PackageDisplayName="WebApp" xmlns:p3="http://www.ni.com/GComponent.xsd" />
+		<DistributionBuildTarget Id="404fada3d7d74db9aed7bec5c0bfef5f" Target="::Web Server" />
+		<DistributionMemberDependencySource Id="651c9d26e8554c72960977be9e8b7f8a" MemberContentType="{http://www.ni.com/GComponent.xsd}Component_Rebuild" RelativeLocation="&quot;National Instruments\\Shared\\Web Server\\htdocs\\WebServerApp&quot;" RootLocation="ApplicationFiles_64" Target="::Web Server::Interactive::WebApp.gcomp" />
+		<DistributionDependencyContent DisplayName="Measurement Studio Common Runtime for .NET Framework 4.0" Id="579157bdb48a4ff5b6aab18e50f9b4fc" Included="False" MaintainerName="National Instruments" Name="ni-mstudio-common-fx40-19.0.0-runtime" Version="19.0.0.49152-0+f0" />
+		<DistributionDependencyContent DisplayName="Measurement Studio Analysis Runtime 17.0 for .NET Framework 4.5" Id="1704418540074f88a13e32ec7d7892cc" Included="False" MaintainerName="National Instruments" Name="ni-mstudio-analysis-fx45-runtime" Version="17.0.0.49153-0+f1" />
+		<DistributionDependencyContent DisplayName="LabVIEW NXG Run-Time Engine" Id="c446c1909e9a47b481e835c933f57079" Included="False" MaintainerName="National Instruments" Name="ni-labview-nxg-4.0.0-rte" Version="7.1.0.49153-0+f1" />
+	</DistributionDefinition>
+</SourceFile>
